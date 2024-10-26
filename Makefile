@@ -3,15 +3,15 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: msaadidi <msaadidi@student.42.fr>          +#+  +:+       +#+         #
+#    By: m3ayz00 <m3ayz00@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/10/25 11:46:28 by msaadidi          #+#    #+#              #
-#    Updated: 2024/10/25 16:19:38 by msaadidi         ###   ########.fr        #
+#    Updated: 2024/10/26 13:34:38 by m3ayz00          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 CC = c++
-CFLAGS = -std=c++98 -Wall -Wextra -Werror
+CFLAGS = -Wall -Wextra -Werror
 SRCS = main.cpp NetworkScanner.cpp
 OBJS = $(SRCS:.cpp=.o)
 NAME = NetworkScanner
