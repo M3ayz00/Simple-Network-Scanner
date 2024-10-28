@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   NetworkScanner.hpp                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: m3ayz00 <m3ayz00@student.42.fr>            +#+  +:+       +#+        */
+/*   By: msaadidi <msaadidi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/25 11:48:38 by msaadidi          #+#    #+#             */
-/*   Updated: 2024/10/26 16:05:23 by m3ayz00          ###   ########.fr       */
+/*   Updated: 2024/10/28 12:03:15 by msaadidi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,8 +42,8 @@ class   NetworkScanner
         ~NetworkScanner();
         NetworkScanner(const NetworkScanner& N);
         NetworkScanner& operator=(const NetworkScanner& N);
-        void    pingHost(const std::string& Ip);
-        void    scanPorts(const std::string& Ip);
+        int     pingHost(const std::string& Ip);
+        void    scanPort(const std::string& Ip,int port);
         void    calcPortion(const std::string& sIp, const std::string& eIp);
         void    outputResults();
         void    scanNetwork();

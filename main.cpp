@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.cpp                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: m3ayz00 <m3ayz00@student.42.fr>            +#+  +:+       +#+        */
+/*   By: msaadidi <msaadidi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/25 16:19:41 by msaadidi          #+#    #+#             */
-/*   Updated: 2024/10/26 15:15:45 by m3ayz00          ###   ########.fr       */
+/*   Updated: 2024/10/28 11:34:40 by msaadidi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 int main()
 {
-    NetworkScanner NS("192.168.0.0", "192.168.0.0");
+    NetworkScanner NS("10.12.8.1", "10.12.8.13");
     NS.scanNetwork();
     NS.outputResults();
 }

@@ -1,0 +1,62 @@
+------RESULTS------
+10.12.8.1 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.1
+-> 88 is open in 10.12.8.1
+-> 443 is closed in 10.12.8.1
+10.12.8.2 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.2
+-> 88 is open in 10.12.8.2
+-> 443 is closed in 10.12.8.2
+10.12.8.3 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.3
+-> 88 is open in 10.12.8.3
+-> 443 is closed in 10.12.8.3
+10.12.8.4 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.4
+-> 88 is open in 10.12.8.4
+-> 443 is closed in 10.12.8.4
+10.12.8.5 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.5
+-> 88 is open in 10.12.8.5
+-> 443 is closed in 10.12.8.5
+10.12.8.6 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.6
+-> 88 is open in 10.12.8.6
+-> 443 is closed in 10.12.8.6
+10.12.8.7 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.7
+-> 88 is open in 10.12.8.7
+-> 443 is closed in 10.12.8.7
+10.12.8.8 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.8
+-> 88 is open in 10.12.8.8
+-> 443 is closed in 10.12.8.8
+10.12.8.9 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.9
+-> 88 is open in 10.12.8.9
+-> 443 is closed in 10.12.8.9
+10.12.8.10 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.10
+-> 88 is open in 10.12.8.10
+-> 443 is closed in 10.12.8.10
+10.12.8.11 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.11
+-> 88 is open in 10.12.8.11
+-> 443 is closed in 10.12.8.11
+10.12.8.12 is reachable
+PORTS : 
+-> 22 is open in 10.12.8.12
+-> 88 is open in 10.12.8.12
+-> 443 is closed in 10.12.8.12
+10.12.8.13 is not reachable
